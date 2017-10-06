@@ -22,11 +22,11 @@
     <meta property="keywords" content="estudiantes, equipo, grupo, unsa, informatica, programacion, programadores, club, amigos, facultad ciencias exactas"/>
 
     <!-- Google Font -->
-    <link href='http://fonts.googleapis.com/css?family=Dosis:300,400,500,600,700,800' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Dosis:300,400,500,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
 
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
     <!-- Preloader -->
     {!! Html::style('css/preloader.css') !!}
@@ -222,7 +222,7 @@
             <div class="row">
                 <div class="col-md-4 no_padding">
                     <div class="single_image">
-                        <img src="images/image_slider.png" alt="gupi">
+                        <img src="images/gupi.jpg" alt="gupi">
                         <div class="image_overlay">
                             <h2>GUPI</h2>
                             <h4>Guía Universitaria Para Ingresantes</h4>
@@ -231,7 +231,7 @@
                 </div>
                 <div class="col-md-4 no_padding">
                     <div class="single_image">
-                        <img src="images/w2.jpg" alt="">
+                        <img src="images/altoke.jpg" alt="altoke">
                         <div class="image_overlay">
                             <h2>Altoke</h2>
                             <h4>Altoke App - Fac. de Cs. Exactas</h4>
@@ -240,7 +240,7 @@
                 </div>
                 <div class="col-md-4 no_padding">
                     <div class="single_image">
-                        <img src="images/w3.jpg" alt="">
+                        <img src="images/becabibexa.jpg" alt="becas bibexa">
                         <div class="image_overlay">
                             <h2>Becas Bibexa</h2>
                             <h4>Capacitaciones a distancia</h4>
@@ -251,7 +251,7 @@
             <div class="row pad_top">
                 <div class="col-md-4 no_padding">
                     <div class="single_image">
-                        <img src="images/w4.jpg" alt="">
+                        <img src="images/club_programadores.jpg" alt="club de programadores">
                         <div class="image_overlay">
                             <h2>Club de Programadores</h2>
                             <h4>Todo el mundo debería saber programar</h4>
@@ -260,7 +260,7 @@
                 </div>
                 <div class="col-md-4 no_padding">
                     <div class="single_image">
-                        <img src="images/w5.jpg" alt="">
+                        <img src="images/jes.jpg" alt="jornadas de emprendedores salteños">
                         <div class="image_overlay">
                             <h2>JES</h2>
                             <h4>Jornadas de Emprendedores Salteños</h4>
