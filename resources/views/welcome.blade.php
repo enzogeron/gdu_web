@@ -14,7 +14,7 @@
 
     <meta property="og:description" content="Somos estudiantes de la Facultad de Ciencias Exactas, comprometidos con cambiar la realidad universitaria, implementando proyectos tecnológicos y sociales innovadores, en base a los conocimientos adquiridos por esta casa de altos estudios, para contrarrestar las problemáticas que atraviesa nuestra Universidad."/>
     <meta property="og:site_name" content="GDU"/>
-    <meta property="og:url" content="http://gdu.unsa.edu.ar"/>
+    <meta property="og:url" content="https://gdu.unsa.edu.ar"/>
     <meta property="og:title" content="Grupo de Desarrollo Universitario | Universidad Nacional de Salta"/>
     <meta property="og:image" content="{{ url('images/gdu-unsa.jpg') }}"/>
     <meta property="fb:admins" content="1870004986617179"/>
