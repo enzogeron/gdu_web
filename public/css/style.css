@@ -473,7 +473,7 @@ ul.icon_list li a:hover{
 .slider .slider-row {
 	width: 2956px;
 	height: 194.5px;
-	background-image: url("../images/image_slider.jpg");
+	background-image: url("http://localhost/gdu_web/public/images/image_slider.jpg");
 	background-size: 2956px 194.5px;
 	-webkit-animation: slide 50s linear infinite;
 	animation: slide 50s linear infinite;

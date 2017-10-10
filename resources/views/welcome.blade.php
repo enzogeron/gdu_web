@@ -12,11 +12,11 @@
     <meta name="description" content="Grupo de Desarrollo Universitario">
     <meta name="author" content="Grupo de Desarrollo Universitario">
 
-    <meta property="og:description" content="Sitio web del Grupo de Desarrollo Universitario"/>
+    <meta property="og:description" content="Somos estudiantes de la Facultad de Ciencias Exactas, comprometidos con cambiar la realidad universitaria, implementando proyectos tecnológicos y sociales innovadores, en base a los conocimientos adquiridos por esta casa de altos estudios, para contrarrestar las problemáticas que atraviesa nuestra Universidad."/>
     <meta property="og:site_name" content="GDU"/>
     <meta property="og:url" content="http://gdu.unsa.edu.ar"/>
-    <meta property="og:title" content="Grupo de Desarrollo Universitario"/>
-    <meta property="og:image" content="{{ url('images/gdu-unsa.jpeg') }}"/>
+    <meta property="og:title" content="Grupo de Desarrollo Universitario | Universidad Nacional de Salta"/>
+    <meta property="og:image" content="{{ url('images/gdu-unsa.jpg') }}"/>
     <meta property="fb:admins" content="1870004986617179"/>
     <meta property="author" content="Enzo Geron" />
     <meta property="keywords" content="estudiantes, equipo, grupo, unsa, informatica, programacion, programadores, club, amigos, facultad ciencias exactas"/>
@@ -110,6 +110,8 @@
                     <li>Walter Marmanillo</li>
                     <li>Wilson Colque</li>
                     <li>Pablo Alarcón</li>
+                    <li>Emanuel Barboza</li>
+                    <li>David Quispe</li>
                     <li>Sebastian Casimiro</li>
                 </ul>
             </div>
@@ -214,7 +216,8 @@
 
         <br>
         <div class="slider">
-            <div class="slider-row"></div>
+            <div class="slider-row">
+            </div>
         </div>
         <br><br>
 
