@@ -1,4 +1,4 @@
-<p align="center"><img src="http://localhost:8080/gdu_web/public/images/gdulogo.png"></p>
+<p align="center"><img src="https://gdu.unsa.edu.ar/images/gdulogo.png"></p>
 
 ## Grupo de Desarrollo Universitario
 
