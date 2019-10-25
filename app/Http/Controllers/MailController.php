@@ -15,7 +15,7 @@ class MailController extends Controller
             'name' => 'required',
             'email' => 'required|email',
             'message' => 'required',
-            'g-recaptcha-response' => 'required|captcha'
+            //'g-recaptcha-response' => 'required|captcha'
         ]);
 
     	$content = [

@@ -98,21 +98,28 @@
                 <h1 class="text-center">HAY EQUIPO</h1>
                 <br>
                 <ul class="list-team">
-                    <li><strong>CEO: </strong>Enzo Gerón</li>
-                    <li>Dario Ledesma</li>
-                    <li>Ezequiel Ramos</li>
+					<li><strong>- ESTUDIANTES -</strong></li>
+					<li>Enzo Geron</li>
+					<li>Emanuel Barboza</li>
+					<li>Ezequiel Ramos</li>
+					<li>Cecilia Almazan</li>
+					<li>Julio Alejandro Flores</li>
+					<li>Ismael Escalante</li>
+					<li>Rodrigo Sulca</li>
+					<li>Guillermo Mogro</li>
                     <li>Gabriel Ramirez</li>
-                    <li>Facundo Echenique</li>
                     <li>Miguel Perez</li>
-                    <li>Nicolas Cuadra</li>
-                    <li>Ana Mechaca</li>
+					<li>Ana Mechaca</li>
                     <li>Fabian Salva</li>
                     <li>Walter Marmanillo</li>
                     <li>Wilson Colque</li>
-                    <li>Pablo Alarcón</li>
-                    <li>Emanuel Barboza</li>
-                    <li>David Quispe</li>
-                    <li>Sebastian Casimiro</li>
+					<li>David Quispe</li>
+					<li>Pablo Alarcon</li>
+					<br>
+					<li><strong>- GRADUADOS -</strong></li>
+					<li>Dario Ledesma</li>
+					<li>Sebastian Casimiro</li>
+					<li>Guido Choque</li>
                 </ul>
             </div>
 
@@ -122,13 +129,13 @@
                         <div class="home_text wow fadeInUp animated">
                             <img src="images/gdulogo.png">
                             <h2 class="title-main">Grupo de Desarrollo Universitario</h2><br>
-                            <p>Te invitamos a participar en el <strong>"Club de Programadores"</strong> un nuevo espacio creado para participar en el desarrollo de proyectos tecnológicos, sociales e innovadores que beneficien a toda la comunidad universitaria.</p>
+                            <p>Te invitamos a participar en el <strong>"Grupo de Desarrollo Universitario"</strong> un nuevo espacio creado para participar en el desarrollo de proyectos tecnológicos, sociales e innovadores que beneficien a toda la comunidad universitaria.</p>
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-4 col-md-offset-4">
-                        <a class="image-popup-vertical-fit btn btn-default btn-plus" href="{{ url('images/club_de_programadores.jpg') }}" title="Club de Programadores 2017">SUMATE AL CLUB</a>
+						<a class="btn btn-default btn-plus" href="#CONTACT" title="GDU 2019">SUMATE AL GDU! ESCRIBINOS</a>
                     </div>
                 </div>
             </div>
@@ -149,7 +156,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4  wow fadeInLeft animated">
-                    <p class="about_us_p">Somos estudiantes de la Facultad de Ciencias Exactas, comprometidos con cambiar la realidad universitaria, implementando proyectos tecnológicos y sociales innovadores, en base a los conocimientos adquiridos por esta casa de altos estudios, para contrarrestar las problemáticas que atraviesa nuestra Universidad.</p>
+                    <p class="about_us_p">Somos estudiantes de la Universidad Nacional de Salta, comprometidos con cambiar la realidad universitaria, implementando proyectos tecnológicos y sociales innovadores, en base a los conocimientos adquiridos por esta casa de altos estudios, para contrarrestar las problemáticas que atraviesa nuestra Universidad.</p>
                 </div>
                 <div class="col-md-4  wow fadeInRight animated">
                     <p class="about_us_p">Uno de nuestros objetivos es apoyar a un importante grupo de estudiantes, en áreas directamente vinculadas con el campo de la Tecnología de la Información (IT), facilitando las tareas de investigación y desarrollo, mediante la concertación de proyectos multidisciplinarios.</p>
@@ -213,41 +220,47 @@
                 </div>
             </div>
         </div>
-
+		<!--
         <br>
         <div class="slider">
             <div class="slider-row">
             </div>
-        </div>
+        </div> -->
         <br><br>
 
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-4 no_padding">
                     <div class="single_image">
+                        <a href="https://play.google.com/store/apps/details?id=ar.unsa.edu.gdu.gupi&hl=es_419" target="_blank">
                         <img src="images/gupi.jpg" alt="gupi">
                         <div class="image_overlay">
                             <h2>GUPI</h2>
                             <h4>Guía Universitaria Para Ingresantes</h4>
                         </div>
+                        </a>
                     </div>
                 </div>
                 <div class="col-md-4 no_padding">
                     <div class="single_image">
+                        <a href="https://play.google.com/store/apps/details?id=xyz.altoke&hl=es_419" target="_blank">
                         <img src="images/altoke.jpg" alt="altoke">
                         <div class="image_overlay">
                             <h2>Altoke</h2>
                             <h4>Altoke App - Fac. de Cs. Exactas</h4>
                         </div>                        
+                        </a>
                     </div>
                 </div>
                 <div class="col-md-4 no_padding">
                     <div class="single_image">
+                        <a href="{{ url('becabibexa') }}" target="_blank">
                         <img src="images/becabibexa.jpg" alt="becas bibexa">
                         <div class="image_overlay">
                             <h2>Becas Bibexa</h2>
                             <h4>Capacitaciones a distancia</h4>
                         </div>                        
+                        </a>
                     </div>
                 </div>
             </div>
@@ -258,19 +271,28 @@
                         <div class="image_overlay">
                             <h2>Club de Programadores</h2>
                             <h4>Todo el mundo debería saber programar</h4>
-                        </div>                        
+                        </div>                   
                     </div>
                 </div>
                 <div class="col-md-4 no_padding">
                     <div class="single_image">
+						<a href="{{ url('eventos/jes') }}" target="_blank">
                         <img src="images/jes.jpg" alt="jornadas de emprendedores salteños">
                         <div class="image_overlay">
                             <h2>JES</h2>
                             <h4>Jornadas de Emprendedores Salteños</h4>
-                        </div>                        
+                        </div>
+                        </a>                       
                     </div>
                 </div>
                 <div class="col-md-4 no_padding">
+                    <div class="single_image">
+                        <img src="images/bibexa_y_la_gente.jpg" alt="bibexa y la gente">
+                        <div class="image_overlay">
+                            <h2>Bibexa y la gente</h2>
+                            <h4>Proyecto de Extensión Universitaria - UNSa</h4>
+                        </div>          
+                    </div>
                 </div>
             </div>           
         </div>
@@ -281,7 +303,8 @@
             <div class="row">
                 <div class="col-md-12 text-center">
                     <div class="wow fadeInUp animated">
-                        <h2 class="title-main wow fadeInUp" data-wow-delay="0.5s">COMUNÍCATE CON NOSOTROS</h2>
+                        <h2 class="title-main wow fadeInUp" data-wow-delay="0.5s">COMUNÍCATE CON NOSOTROS 
+							<a href="https://wa.me/5493874535343?text=Hola%20GDU" target="_blank"><i class="fa fa-whatsapp"></i></a></h2>
                         <p>Tenes alguna consulta, queres sumarte o necesitas ayuda, no dudes en ponerte en contacto con nosotros. Estamos para ayudarte.</p>
                     </div>
                 </div>
@@ -293,7 +316,7 @@
                 <div class="col-md-3  wow fadeInLeft animated">
                     <div class="single_contact_info">
                         <h2>Celular</h2>
-                        <p>387 4535 343 (Enzo Geron)</p>
+                        <p>387 4535 343</p>
                     </div>
                     <div class="single_contact_info">
                         <h2>Email</h2>
@@ -312,15 +335,15 @@
                                 {!! Form::text('name', null, ['class' => 'form-control', 'placeholder' => 'Ingrese su nombre*', 'required']) !!}
                                 {!! Form::email('email', null, ['class' => 'form-control', 'placeholder' => 'Ingrese su email*', 'required']) !!}
                                 {!! Form::text('phone', null, ['class' => 'form-control', 'placeholder' => 'Ingrese su numero de celular']) !!}
-                            </div>
+							</div>
                             <div class="col-md-6">
                                 {!! Form::textarea('message', null, ['class' => 'form-control', 'id' => 'message', 'placeholder' => 'Escriba su mensaje...*', 'rows' => '25', 'cols' => '10', 'required']) !!}
-                                @captcha()
-                                {!! Form::submit('Enviar', ['class' => 'btn btn-default submit-btn form_submit']) !!}                             
+								<!-- @captcha() -->
+								<button type="submit" class="btn btn-default submit-btn form_submit">Enviar</button>                          
                             </div>
                         </div>
                     <span>* campos obligatorios {{ session()->get('notification') }}</span>
-                    {!! Form::close() !!}
+					{!! Form::close() !!}
                     
                 </div>
             </div>
@@ -346,6 +369,7 @@
                         <div class="social">
                             <h2>Seguinos en nuestras redes sociales</h2>
                             <ul class="icon_list">
+								<li><a href="https://wa.me/5493874535343?text=Hola%20GDU" target="_blank"><i class="fa fa-whatsapp"></i></a></li>
                                 <li><a href="https://www.facebook.com/gdusalta/" target="_blank"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="https://www.instagram.com/gdusalta/" target="_blank"><i class="fa fa-instagram"></i></a></li>
                                 <li><a href="https://twitter.com/gdusalta" target="_blank"><i class="fa fa-twitter"></i></a></li>
@@ -360,7 +384,7 @@
                 <div class="row">
                     <div class="col-md-12 text-center">
                         <div class="copyright_text   wow fadeInUp animated">
-                            <p>&copy; 2017 GDU - Grupo de Desarrollo Universitario<br><a href="http://www.unsa.edu.ar/" target="_blank">Universidad Nacional de Salta</a></p>
+                            <p>&copy; 2019 GDU - Grupo de Desarrollo Universitario<br><a href="http://www.unsa.edu.ar/" target="_blank">Universidad Nacional de Salta</a></p>
                         </div>
                     </div>
                 </div>
